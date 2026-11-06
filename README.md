@@ -8,7 +8,7 @@ web e reúne a prática de HTML, CSS e JavaScript.
 
 ## 📸 Prévia do projeto
 
-<img width="1916" height="1039" alt="image" src="https://github.com/user-attachments/assets/755f179e-a9ee-4fca-a1a6-202d93578425" />
+<img width="1665" height="796" alt="image" src="https://github.com/user-attachments/assets/6263a0a0-c01d-4871-a4c7-e378068c974f" />
 
 
 ## 🛠️ Tecnologias utilizadas
